@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="1" tvg-id="Jurassic World Rebirth.th" tvg-name="กำเนิดชีวิตใหม่" tvg-logo="https://image.tmdb.org/t/p/original/vusS3zdIBqxgrgAARrXQaQCBxUT.jpg" group-title="movie",Jurassic World Rebirth กำเนิดชีวิตใหม่
+#EXTVLCOPT:http-referrer=http://pal.alphatx.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:E7:1E:B1&stream=79486&extension=ts&play_token=WCwS709YYt
