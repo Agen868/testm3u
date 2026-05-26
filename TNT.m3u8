@@ -1,6 +1,6 @@
 #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
 
-#EXTINF:-1 tvg-chno="1" tvg-id="Jurassic World Rebirth.th" tvg-name="กำเนิดชีวิตใหม่" tvg-logo="https://image.tmdb.org/t/p/original/vusS3zdIBqxgrgAARrXQaQCBxUT.jpg" group-title="movie",Jurassic World Rebirth กำเนิดชีวิตใหม่
-#EXTVLCOPT:http-referrer=http://ultratv.one:2095/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,NAME="1"
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1376206
