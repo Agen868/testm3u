@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Premium.Live" tvg-name="Premium Channel" tvg-logo="https://i.imgur.com/XyZ123.png" group-title="Premium VIP",Premium Channel Live
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://tv-premium-pro.com:80/live/wezqqszfr2/i7481xvrdf/256123.ts
