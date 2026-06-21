@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+
+#EXT-X-STREAM-INF:BANDWIDTH=2200000,NAME="1"
+https://embed-xs.eatmorebanana.org/player_basic.php?channel=th-monomax07bkp&api_key=MIcWPyCpm6maZGJQ
